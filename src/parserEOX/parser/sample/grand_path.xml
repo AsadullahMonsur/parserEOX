@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r-graph
+  id="svg1"
+  viewBox="0 0 1024 1024"
+  width="1024"
+  height="1024">
+  <g
+    id="g1">
+  <path
+    id="path1"
+    fill="none"
+    stroke="#000000"
+    stroke-width="10px"
+    stroke-linecap="butt"
+    stroke-linejoin="miter"
+    stroke-opacity="1"
+    d="m 74.329078,78.356943 c 0,0 -251.330168,495.934977 444.121192,544.669477 C 1213.9017,671.76093 1012.1744,956.82389 753.719,962.3467 495.26363,967.86952 573.62702,61.171267 573.62702,61.171267"/>
+  <path
+    id="path3"
+    fill="none"
+    stroke="#000000"
+    stroke-width="10px"
+    stroke-linecap="butt"
+    stroke-linejoin="miter"
+    stroke-opacity="1"
+    d="M 156.77013,878.71507 867.22987,145.28493"/>
+  </g>
+</r-graph>
